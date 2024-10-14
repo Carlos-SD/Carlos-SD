@@ -14,13 +14,13 @@
 
 #### 👨🏻‍💻Languages and Tools
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" style="max-width: 100%;">](https://www.oracle.com/database/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" style="max-width: 100%;">](https://www.java.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" style="max-width: 100%;">](https://spring.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" style="max-width: 100%;">](https://www.figma.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" style="max-width: 100%;">](https://reactjs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" style="max-width: 100%;">](https://www.javascript.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" style="max-width: 100%;">](https://html.spec.whatwg.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" style="max-width: 100%;">](https://www.oracle.com/database/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="max-width: 100%;">](https://www.java.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" style="max-width: 100%;">](https://spring.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" style="max-width: 100%;">](https://www.figma.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="max-width: 100%;">](https://reactjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="max-width: 100%;">](https://www.javascript.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" style="max-width: 100%;">](https://html.spec.whatwg.org/)
 
 
 
