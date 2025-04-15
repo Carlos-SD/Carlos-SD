@@ -1,32 +1,77 @@
-### Hello there! 👋
+<h1 align="left">Hi 👋, I'm Carlos Felipe</h1>
 
-- 💻 Passionate Software Engineering student at Universidad Icesi.
-- 🌱 Actively expanding my skills with AWS and SQL.
-- 🤖 Focused on building robust applications using Spring Boot.
-- 🌐 Eager to apply knowledge and tackle real-world challenges in software development.
+###
 
-#### 📫How to reach me:
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/sd_carlos)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/carlos-felipe-s%C3%A1nchez-dur%C3%A1n-b8b7b8311/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/0437_cfs/)  &nbsp; <a href="mailto:carlosfelipe088@outlook.es"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<br clear="both">
 
+###
 
-![Carlos-SD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-SD&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-SD&layout=compact&theme=dark)
+<h2 align="left">About me</h2>
 
-#### 👨🏻‍💻Languages and Tools
+###
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" style="max-width: 100%;">](https://www.oracle.com/database/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="max-width: 100%;">](https://www.java.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" style="max-width: 100%;">](https://spring.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" style="max-width: 100%;">](https://www.figma.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="max-width: 100%;">](https://reactjs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="max-width: 100%;">](https://www.javascript.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" style="max-width: 100%;">](https://html.spec.whatwg.org/)
+<p align="left">- 💻 Passionate Software Engineering student at Universidad Icesi.<br>- 🌱 Actively expanding my skills with AWS and SQL.<br>-  🧐 Great interest for data and its applications.<br>- 🌐 Eager to apply knowledge and tackle real-world challenges in software development.</p>
 
+###
 
+<h2 align="left">Languages</h2>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
 
+###
 
+<h2 align="left">Tools & Tech</h2>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
+###
 
+<h2 align="left">You can find me in... ‎ 📥</h2>
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-felipe-sánchez-durán-b8b7b8311/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/duran.fzz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="carlosfelipe088@outlook.es" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-SD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-SD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages" height="201" alt="languages graph"  />
+</div>
+
+###
