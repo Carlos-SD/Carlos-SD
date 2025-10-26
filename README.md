@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Carlos Felipe 
 
 ### About me:
-I’m a **Data Developer I at Qubika** and a **Software Engineering student at Universidad Icesi**.  
-I focus on building and optimizing **data engineering solutions** — from ingestion to transformation and orchestration — ensuring scalability, reliability, and efficiency across cloud environments.
+I’m a **Data Developer** and a **Software Engineering student at Universidad Icesi**.  
+I focus on building and optimizing **Data Engineering solutions** — from ingestion to transformation and orchestration — ensuring scalability, reliability, and efficiency across cloud environments.
 
 ---
 
